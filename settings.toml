@@ -1,0 +1,13 @@
+[mqtt]
+broker = 'broker.hivemq.com'
+port = 1883
+topic = 'my_topic/status'
+
+[time]
+sec_delay = 1
+
+[db]
+host = 'localhost'
+port = 27017
+db = 'mqtt_data'
+collection = 'data'

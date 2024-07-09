@@ -1,0 +1,9 @@
+
+### `requirements.txt`
+
+```plaintext
+paho-mqtt
+pymongo
+fastapi
+uvicorn
+toml
